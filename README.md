@@ -1,11 +1,11 @@
 ## Sebastian Sonne
 I'm Sebastian from Germany, and I am currently attending Magnolia West High School, Texas, as a foreign exchange student. In my free time, I am learning the languages JAVA and MySQL and really enjoy creating practical applications to improve everybodys daily life.
 
-##Skills and Experience
+## Skills and Experience
 * 💻 Java
 * 💾 MySQL
 
-##Learning
+## Learning
 * Data Structures and Algorithms
 
 
