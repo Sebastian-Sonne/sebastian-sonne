@@ -6,7 +6,7 @@ Beyond the digital realm, I'm all about chasing **tennis** balls on the court—
 
 Let's connect and share the journey, whether it's coding adventures, acing a serve, or capturing the beauty of the world one photo at a time.
 
-By the way: Feel free to check out my **[website here](https://sebastian-sonne.github.io)**
+By the way: Feel free to check out my **[website](https://sebastian-sonne.github.io)** here.
 
 ### Skills and Experience
 * 💻 Java
