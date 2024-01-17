@@ -8,12 +8,15 @@ Let's connect and share the journey, whether it's coding adventures, acing a ser
 
 ~ Sebastian
 
-By the way: Feel free to check out my **[website](https://sebastian-sonne.com)** here.
+By the way: Feel free to check out my **[website](https://sebastian-sonne.com)** here. I am currently also reworking my website, [check it out here](https://dev.sebastian-sonne.com)!
 
 ### Skills and Experience
 * 💻 Java
 * 💾 MySQL
 * 📱 Web Devolopment
+  * html
+  * css
+  * javascript basics
 
 ### Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sebastian-Sonne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-sonne/)  
