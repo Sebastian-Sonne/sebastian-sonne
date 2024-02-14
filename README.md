@@ -13,10 +13,7 @@ By the way: Feel free to check out my **[website](https://sebastian-sonne.com)**
 ### Skills and Experience
 * 💻 Java
 * 💾 MySQL
-* 📱 Web Devolopment
-  * html
-  * css
-  * some javascript
+* 📱 Web Devolopment -> check out myy [website](https://sebastian-sonne.com)!
 
 ### Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sebastian-Sonne)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-sonne/)  
