@@ -14,9 +14,3 @@ Let's connect and share the journey, whether it's coding adventures, acing a ser
 - MySQL
 - Java
 - HTML/CSS
-
-### Connect with me
-
-* [Contact Form](https://me.sebastian-sonne.com/contact)
-* [LinkedIn](https://www.linkedin.com/in/sebastian-sonne)
-* [Instagram](https://instagram.com/sebastian._.sonne)
