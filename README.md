@@ -9,7 +9,7 @@ Let's connect and share the journey, whether it's coding adventures, acing a ser
 ~ Sebastian
 
 ### Tech Stack:
-- JavaScript, TypeScript
+- JavaScript, TypeScript 
 - React JS
 - MySQL
 - Java
