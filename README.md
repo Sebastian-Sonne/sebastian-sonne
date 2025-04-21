@@ -1,16 +1,27 @@
-# Hey there! 
+```bash
+> booting developer_mode...
+> user: unknown
+> hobbies: probably outdoors
+> status: caffeinated
+```
 
-I'm **Sebastian**, currently attending Ohm Gymnasium Erlangen. When I'm not hitting the books, you'll find me diving into the world of tech, experimenting with **JavaScript**, **TypeScript** and **React** to whip up practical applications.
+Hey there 👋  
+I'm a human-shaped collection of caffeine, code, and curiosity.
 
-Beyond the digital realm, I'm all about chasing **tennis** balls on the court—it's my game. Hiking is another love of mine; there's something magical about nature that keeps me grounded. And, oh, did I mention I'm into freezing moments in time through photography? Check out my work on [here](https://sebastian-sonne.com/media)!
+By day: wrangling JavaScript, TypeScript, and React into submission.  
+By night: chasing bugs, tennis balls, and sunsets. Not always in that order.  
+Sometimes I store things in MySQL, occasionally I flirt with Java.  
+HTML/CSS? You could say we have history.
 
-Let's connect and share the journey, whether it's coding adventures, acing a serve, or capturing the beauty of the world one photo at a time.
+I build things, break things, and then build them better.  
+Nature enthusiast, photo capturer, meme appreciator.
 
-~ Sebastian
+> 📸 Evidence of existence may be scattered across the web...
 
-### Tech Stack:
-- JavaScript, TypeScript 
-- React JS
-- MySQL
-- Java
-- HTML/CSS
+### Tech Stack
+- JavaScript / TypeScript
+- React (not just a phase), React Native
+- MySQL / Java
+- HTML / CSS (classic)
+
+Pull requests welcome. Sarcasm encouraged. Bugs inevitable.
