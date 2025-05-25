@@ -20,8 +20,9 @@ Nature enthusiast, photo capturer, meme appreciator.
 
 ### Tech Stack
 - JavaScript / TypeScript
-- React (not just a phase), React Native
-- MySQL / Java
+- React (not just a phase), React Native, Redux
+- Java, JavaFX, Gradle
+- MySQL, Supabase
 - HTML / CSS (classic)
 
 Pull requests welcome. Sarcasm encouraged. Bugs inevitable.
