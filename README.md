@@ -21,8 +21,9 @@ Nature enthusiast, photo capturer, meme appreciator.
 ### Tech Stack
 - JavaScript / TypeScript
 - React (not just a phase), React Native, Redux
+- Next.JS
 - Java, JavaFX, Gradle
 - MySQL, Supabase
-- HTML / CSS (classic)
+- HTML / CSS (classic), Tailwind, Shadcn
 
 Pull requests welcome. Sarcasm encouraged. Bugs inevitable.
